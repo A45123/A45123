@@ -7,7 +7,7 @@ I'm [**A45123**], a programming student based in Portugal. I am dedicated to dev
 
 ---
 
-**Some Stugg I built:** (working on it)
+**Some stuff I built:** (working on it)
 -
 
 <!--

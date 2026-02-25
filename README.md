@@ -5,6 +5,11 @@ I'm A45123, a programming student based in Portugal. I am dedicated to developin
 These days I'm focused on:
 - Mobile Application Development
 
+---
+
+Some Stugg I built: (working on it)
+-
+
 <!--
 **A45123/A45123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

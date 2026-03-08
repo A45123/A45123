@@ -3,8 +3,9 @@
 I'm **A45123** a programming student based in Portugal. I am dedicated to developing my skills and continuously improving my knowledge in different programming languages and tools.
 
 **These days I'm focused on:**
-- 🌱 I’m currently learning Kotlin
-- 🌱 I’m currently learning Mobile Application Development
+- 🌱 I’m currently learning:
+  - Kotlin
+  - Mobile Application Development
 
 ---
 

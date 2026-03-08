@@ -8,7 +8,8 @@ I'm **A45123** a programming student based in Portugal. I am dedicated to develo
 ---
 
 **Some stuff I built:** 
-(working on it)
+- Kotlin console calculator
+- Android App [Hello_World](https://github.com/A45123/Hello_World)
 
 
 <!--
